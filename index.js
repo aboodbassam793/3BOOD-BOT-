@@ -1130,4 +1130,4 @@ message.author.sendMessage(`test`);
   }
 });
 
-client.login("NzUzNTA1MDYyODI2ODAzMzEw.X1nKRg.A0Debutz5E1j3wBCi0nHwq7dqXc");
+client.login(process.env.TOKEN);
