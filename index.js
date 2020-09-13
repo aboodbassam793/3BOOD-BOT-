@@ -1125,7 +1125,12 @@ client.on('message', message => {
 
 
 
-message.author.sendMessage(`test`);
+message.author.sendMessage(`:33: | Describe : كود معلومات السيرفر
+
+:28: | Code : https://4cash.me/codes-24
+
+:27: | Type of code : قسم الأكواد العامة
+`);
 
   }
 });
