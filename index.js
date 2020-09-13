@@ -47,7 +47,7 @@ client.on("ready", () => {
   console.log(client.guilds.map(c => `${c.name} : ${c.me.hasPermission(8)}`));
   client.user.setStatus("online");
 
-  client.user.setActivity(`المبرمجين العرب`, { type: "PLAYING" });
+  client.user.setActivity(`0help | المبرمجين العرب`, { type: "PLAYING" });
 });
 
 
